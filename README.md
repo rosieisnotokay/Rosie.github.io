@@ -1,7 +1,7 @@
 # Programming I Portfolio
 ## Midterm adventure Game
 ![title](https://user-images.githubusercontent.com/115731900/207738231-d2866ef9-3042-4426-887b-0b8ba0adff70.png)
-A short and sweet farming simulator made in C#
+A short and simple farming simulator made in C#
 ![gameplay](https://user-images.githubusercontent.com/115731900/207738292-f3584077-9cb1-4054-b998-ff4e6ab52362.png)
 
 ### Code Ex.
@@ -25,5 +25,6 @@ A short and sweet farming simulator made in C#
             Console.Clear();
         }
 ```
+
 
 
